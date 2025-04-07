@@ -1,0 +1,486 @@
+{
+    "collections.py": {
+        "bacon": 0,
+        "imports": [
+            "nltk",
+            "nltk.internals"
+        ],
+        "name": "collections.py",
+        "path": "collections.py"
+    },
+    "nltk": {
+        "bacon": 1,
+        "imported_by": [
+            "collections.py",
+            "nltk",
+            "nltk.ccg",
+            "nltk.chunk",
+            "nltk.classify",
+            "nltk.cluster",
+            "nltk.collocations",
+            "nltk.data",
+            "nltk.downloader",
+            "nltk.featstruct",
+            "nltk.grammar",
+            "nltk.help",
+            "nltk.inference",
+            "nltk.metrics",
+            "nltk.misc",
+            "nltk.parse",
+            "nltk.probability",
+            "nltk.sem",
+            "nltk.stem",
+            "nltk.tag",
+            "nltk.tbl",
+            "nltk.text",
+            "nltk.tokenize",
+            "nltk.translate",
+            "nltk.tree",
+            "nltk.util",
+            "nltk.wsd"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.ccg",
+            "nltk.chunk",
+            "nltk.classify",
+            "nltk.cluster",
+            "nltk.collocations",
+            "nltk.data",
+            "nltk.decorators",
+            "nltk.downloader",
+            "nltk.featstruct",
+            "nltk.grammar",
+            "nltk.help",
+            "nltk.inference",
+            "nltk.internals",
+            "nltk.jsontags",
+            "nltk.lazyimport",
+            "nltk.metrics",
+            "nltk.misc",
+            "nltk.parse",
+            "nltk.probability",
+            "nltk.sem",
+            "nltk.stem",
+            "nltk.tag",
+            "nltk.tbl",
+            "nltk.text",
+            "nltk.tokenize",
+            "nltk.translate",
+            "nltk.tree",
+            "nltk.util",
+            "nltk.wsd",
+            "numpy"
+        ],
+        "name": "nltk",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/__init__.py"
+    },
+    "nltk.ccg": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.ccg"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.ccg"
+        ],
+        "name": "nltk.ccg",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/ccg/__init__.py"
+    },
+    "nltk.chunk": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.chunk",
+            "nltk.data"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.chunk"
+        ],
+        "name": "nltk.chunk",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/chunk/__init__.py"
+    },
+    "nltk.classify": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.classify",
+            "nltk.data"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.classify"
+        ],
+        "name": "nltk.classify",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/classify/__init__.py"
+    },
+    "nltk.cluster": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.cluster"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.cluster"
+        ],
+        "name": "nltk.cluster",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/cluster/__init__.py"
+    },
+    "nltk.collocations": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.text"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.metrics",
+            "nltk.probability",
+            "nltk.util"
+        ],
+        "name": "nltk.collocations",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/collocations.py"
+    },
+    "nltk.data": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.grammar",
+            "nltk.help",
+            "nltk.tag",
+            "nltk.tokenize"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.chunk",
+            "nltk.classify",
+            "nltk.grammar",
+            "nltk.internals",
+            "nltk.jsontags",
+            "nltk.sem",
+            "nltk.tag",
+            "nltk.tokenize"
+        ],
+        "name": "nltk.data",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/data.py"
+    },
+    "nltk.decorators": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk"
+        ],
+        "name": "nltk.decorators",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/decorators.py"
+    },
+    "nltk.downloader": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk"
+        ],
+        "imports": [
+            "nltk"
+        ],
+        "name": "nltk.downloader",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/downloader.py"
+    },
+    "nltk.featstruct": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.grammar"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.internals",
+            "nltk.sem"
+        ],
+        "name": "nltk.featstruct",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/featstruct.py"
+    },
+    "nltk.grammar": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.data"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.data",
+            "nltk.featstruct",
+            "nltk.internals",
+            "nltk.parse",
+            "nltk.probability",
+            "nltk.util"
+        ],
+        "name": "nltk.grammar",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/grammar.py"
+    },
+    "nltk.help": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.data"
+        ],
+        "name": "nltk.help",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/help.py"
+    },
+    "nltk.inference": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.inference"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.inference"
+        ],
+        "name": "nltk.inference",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/inference/__init__.py"
+    },
+    "nltk.internals": {
+        "bacon": 1,
+        "imported_by": [
+            "collections.py",
+            "nltk",
+            "nltk.data",
+            "nltk.featstruct",
+            "nltk.grammar",
+            "nltk.probability",
+            "nltk.util"
+        ],
+        "name": "nltk.internals",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/internals.py"
+    },
+    "nltk.jsontags": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.data"
+        ],
+        "name": "nltk.jsontags",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/jsontags.py"
+    },
+    "nltk.lazyimport": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk"
+        ],
+        "name": "nltk.lazyimport",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/lazyimport.py"
+    },
+    "nltk.metrics": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.collocations",
+            "nltk.metrics",
+            "nltk.text"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.metrics"
+        ],
+        "name": "nltk.metrics",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/metrics/__init__.py"
+    },
+    "nltk.misc": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.misc"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.misc"
+        ],
+        "name": "nltk.misc",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/misc/__init__.py"
+    },
+    "nltk.parse": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.grammar",
+            "nltk.parse"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.parse"
+        ],
+        "name": "nltk.parse",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/parse/__init__.py"
+    },
+    "nltk.probability": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.collocations",
+            "nltk.grammar",
+            "nltk.text"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.internals"
+        ],
+        "name": "nltk.probability",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/probability.py"
+    },
+    "nltk.sem": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.data",
+            "nltk.featstruct",
+            "nltk.sem"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.sem"
+        ],
+        "name": "nltk.sem",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/sem/__init__.py"
+    },
+    "nltk.stem": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.stem"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.stem"
+        ],
+        "name": "nltk.stem",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/stem/__init__.py"
+    },
+    "nltk.tag": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.data",
+            "nltk.tag"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.data",
+            "nltk.tag"
+        ],
+        "name": "nltk.tag",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/tag/__init__.py"
+    },
+    "nltk.tbl": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.tbl"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.tbl"
+        ],
+        "name": "nltk.tbl",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/tbl/__init__.py"
+    },
+    "nltk.text": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.collocations",
+            "nltk.metrics",
+            "nltk.probability",
+            "nltk.tokenize",
+            "nltk.util"
+        ],
+        "name": "nltk.text",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/text.py"
+    },
+    "nltk.tokenize": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.data",
+            "nltk.text",
+            "nltk.tokenize"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.data",
+            "nltk.tokenize"
+        ],
+        "name": "nltk.tokenize",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/tokenize/__init__.py"
+    },
+    "nltk.translate": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.translate"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.translate"
+        ],
+        "name": "nltk.translate",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/translate/__init__.py"
+    },
+    "nltk.tree": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.tree"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.tree"
+        ],
+        "name": "nltk.tree",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/tree/__init__.py"
+    },
+    "nltk.util": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "nltk.collocations",
+            "nltk.grammar",
+            "nltk.text"
+        ],
+        "imports": [
+            "nltk",
+            "nltk.internals"
+        ],
+        "name": "nltk.util",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/util.py"
+    },
+    "nltk.wsd": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk"
+        ],
+        "imports": [
+            "nltk"
+        ],
+        "name": "nltk.wsd",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/nltk/nltk/wsd.py"
+    },
+    "numpy": {
+        "bacon": 2,
+        "imported_by": [
+            "nltk",
+            "numpy"
+        ],
+        "imports": [
+            "numpy"
+        ],
+        "name": "numpy",
+        "path": "/home/devil/Documents/Courses/STT/STT_Lab9/venv/lib/python3.10/site-packages/numpy/__init__.py"
+    }
+}
